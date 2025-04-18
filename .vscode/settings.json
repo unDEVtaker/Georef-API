@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "livePreview.customExternalBrowser": "Chrome",
+    "workbench.externalBrowser": "Chrome"
+}
