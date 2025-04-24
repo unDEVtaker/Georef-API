@@ -1,6 +1,6 @@
 # 🇦🇷 API GEO REF 🗺️ (en construcción 🚧)
 
-Este proyecto es una aplicación web 🌐 que permite a los usuarios seleccionar provincias 🇦🇷, departamentos 🏢 y municipios 🏘️ de Argentina utilizando la API de datos geográficos del gobierno argentino 🏛️.
+Este proyecto es una aplicación web 🌐 que permite a los usuarios seleccionar provincias 🇦🇷, departamentos y municipios de Argentina utilizando la API de datos geográficos del gobierno argentino.
 
 ## 📂 Estructura del Proyecto
 
