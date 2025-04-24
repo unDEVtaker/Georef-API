@@ -68,5 +68,6 @@ Este proyecto utiliza datos públicos proporcionados por el gobierno argentino �
 ## 👾 Dev
 
 [unDEVtaker](https://github.com/unDEVtaker)
+![img](img/undev-full.png)
 
 
