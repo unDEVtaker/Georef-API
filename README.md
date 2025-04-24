@@ -69,4 +69,4 @@ Este proyecto utiliza datos pÃºblicos proporcionados por el gobierno argentino ð
 
 [unDEVtaker](https://github.com/unDEVtaker)
 
-![gif](img/cowboy%20bebop%20eating%20GIF.gif)
+![gif](img/undev-full.png)
