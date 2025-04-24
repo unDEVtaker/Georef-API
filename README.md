@@ -1,6 +1,6 @@
 # 🇦🇷 API GEO REF 🗺️ (en construcción 🚧)
 
-Este proyecto es una aplicación web 🌐 que permite a los usuarios seleccionar provincias 🇦🇷, departamentos y municipios de Argentina utilizando la API de datos geográficos del gobierno argentino.
+Este proyecto es una aplicación web que permite a los usuarios seleccionar provincias 🇦🇷, departamentos y municipios de Argentina utilizando la API de datos geográficos del gobierno argentino.
 
 ## 📂 Estructura del Proyecto
 
@@ -65,9 +65,8 @@ Si deseas contribuir a este proyecto, puedes enviar un pull request o reportar p
 
 Este proyecto utiliza datos públicos proporcionados por el gobierno argentino 🏛️. Asegúrate de cumplir con los términos de uso de la API.
 
-## 👾 Dev
+## 👾 Dev => [unDEVtaker](https://github.com/unDEVtaker)
 
-[unDEVtaker](https://github.com/unDEVtaker)
-![img](img/undev-full.png)
+![img](img/undev.png )
 
 
